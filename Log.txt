@@ -1,0 +1,81 @@
+
+[SW STARTED] 2022-11-08 21:01:07.364662
+
+[SW STARTED] 2022-11-08 21:01:50.097706
+[MSG] 2022-11-08 21:01:51.485741---[CollectImages.py ] User Choice Parametars : Name1
+[MSG] 2022-11-08 21:02:00.084679---[CollectImages.py ] User Choice Parametars : LabelNameTest  NumOfImg_Temp1
+
+[SW STARTED] 2022-11-08 21:03:16.802447
+[MSG] 2022-11-08 21:03:18.888702---[CollectImages.py ] User Choice Parametars : Name1
+[MSG] 2022-11-08 21:03:23.775557---[CollectImages.py ] User Choice Parametars : LabelNameTest  NumOfImg_Temp2
+[MSG] 2022-11-08 21:03:30.350419---[CollectImages.py ] Image Taken : Test0
+[MSG] 2022-11-08 21:03:33.380912---[CollectImages.py ] Image Taken : Test1
+[FAULT] 2022-11-08 21:04:04.470162---[CollectImages.py Line 24] Choice Entered is not valid - decimal,string or character inside Enter your choice
+
+[MSG] 2022-11-08 21:04:04.471163---[CollectImages.py ] User Choice Parametars : Nameq
+
+[SW STARTED] 2022-11-08 21:05:31.055099
+[MSG] 2022-11-08 21:05:33.732719---[CollectImages.py ] User Choice Parametars : Name 1
+[MSG] 2022-11-08 21:05:43.230279---[CollectImages.py ] User Choice Parametars : LabelName MarinJeZakon  NumOfImg_Temp 5
+[MSG] 2022-11-08 21:05:43.231274---[CollectImages.py Line 58 ] New Directory for collecting images created
+[MSG] 2022-11-08 21:05:49.493837---[CollectImages.py ] Image Taken : MarinJeZakon0
+[MSG] 2022-11-08 21:05:52.536703---[CollectImages.py ] Image Taken : MarinJeZakon1
+[MSG] 2022-11-08 21:05:55.589889---[CollectImages.py ] Image Taken : MarinJeZakon2
+[MSG] 2022-11-08 21:05:58.620079---[CollectImages.py ] Image Taken : MarinJeZakon3
+[MSG] 2022-11-08 21:06:01.657450---[CollectImages.py ] Image Taken : MarinJeZakon4
+[MSG] 2022-11-08 21:06:24.426723---[CollectImages.py ] User Choice Parametars : Name 3
+
+[SW STARTED] 2022-11-08 21:08:45.255902
+[MSG] 2022-11-08 21:08:47.474025---[CollectImages.py ] User Choice Parametars : InputChoice = 2
+[FAULT] 2022-11-08 21:08:53.408085---[CollectImages.py Line 82 ] Runing the labelImg.py unsucessfull - check library or labelimg\labelImg.py
+
+[MSG] 2022-11-08 21:08:57.363361---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+
+[SW STARTED] 2022-11-08 21:10:23.122683
+[MSG] 2022-11-08 21:10:25.556805---[CollectImages.py ] User Choice Parametars : InputChoice = 2
+[MSG] 2022-11-08 21:10:25.557832---[CollectImages.py ] Opening Labeling.py
+[MSG] 2022-11-08 21:10:33.517584---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+
+[SW STARTED] 2022-11-08 21:31:01.208878
+[MSG] 2022-11-08 21:31:05.718742---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+[MSG] 2022-11-08 21:31:05.718742---[CollectImages.py ] Create Train/Test data
+[MSG] 2022-11-08 21:31:08.471735---[CollectImages.py ] User Choice Parametars : InputChoice = 4
+
+[SW STARTED] 2022-11-08 21:52:50.736619
+[MSG] 2022-11-08 21:52:53.404615---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+
+[SW STARTED] 2022-11-08 21:52:56.007895
+[MSG] 2022-11-08 21:52:57.686157---[CollectImages.py ] User Choice Parametars : InputChoice = 1
+[MSG] 2022-11-08 21:52:57.686157---[CollectImages.py ] Creating New Label with images
+[MSG] 2022-11-08 21:53:05.768107---[CollectImages.py ] User Choice Parametars : LabelName = 0  NumOfImg_Temp = 0
+[FAULT] 2022-11-08 21:53:05.768107---[CollectImages.py Line 35 ] inserted number of images is invalid ! 
+
+[MSG] 2022-11-08 21:53:15.705205---[CollectImages.py ] User Choice Parametars : InputChoice = 1
+[MSG] 2022-11-08 21:53:15.705205---[CollectImages.py ] Creating New Label with images
+[MSG] 2022-11-08 21:53:23.427841---[CollectImages.py ] User Choice Parametars : LabelName = 133  NumOfImg_Temp = 1
+[MSG] 2022-11-08 21:53:23.429188---[CollectImages.py Line 58 ] New Directory for collecting images created
+[MSG] 2022-11-08 21:53:29.534260---[CollectImages.py ] Image Taken : 1330
+[MSG] 2022-11-08 21:53:33.754538---[CollectImages.py ] User Choice Parametars : InputChoice = 2
+[MSG] 2022-11-08 21:53:33.754538---[CollectImages.py ] Labeling Existing Images
+[MSG] 2022-11-08 21:53:33.754538---[CollectImages.py ] Opening Labeling.py
+[MSG] 2022-11-08 21:55:52.834063---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+
+[SW STARTED] 2022-11-08 22:09:03.813518
+[WARNING] 2022-11-08 22:09:06.852985---[CollectImages.py Line 24] Choice Entered is not valid - decimal,string or character inside Enter your choice
+[MSG] 2022-11-08 22:09:06.854324---[CollectImages.py ] User Choice Parametars : InputChoice = q
+
+[SW STARTED] 2022-11-09 16:40:27.318007
+[MSG] 2022-11-09 16:40:30.962976---[CollectImages.py ] User Choice Parametars : InputChoice = 5
+[MSG] 2022-11-09 16:43:13.766294---[CollectImages.py ] Software started 
+[MSG] 2022-11-09 16:43:16.987667---[CollectImages.py ] User Choice Parametars : InputChoice = 5
+[MSG] 2022-11-09 16:44:33.955154---[CollectImages.py ] Software started 
+[MSG] 2022-11-09 16:44:38.190835---[CollectImages.py ] User Choice Parametars : InputChoice = 2
+[MSG] 2022-11-09 16:44:38.190835---[CollectImages.py ] Labeling Existing Images
+[MSG] 2022-11-09 16:44:38.191836---[CollectImages.py ] Opening Labeling.py
+[MSG] 2022-11-09 16:44:43.171930---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+[MSG] 2022-11-09 16:45:10.134097---[CollectImages.py ] Software started 
+[MSG] 2022-11-09 16:45:11.587487---[CollectImages.py ] User Choice Parametars : InputChoice = 3
+
+[SW STARTED] 2022-11-09 16:45:41.329674
+[MSG] 2022-11-09 16:45:41.329674---[CollectImages.py ] Software started 
+[MSG] 2022-11-09 16:45:44.354181---[CollectImages.py ] User Choice Parametars : InputChoice = 3
