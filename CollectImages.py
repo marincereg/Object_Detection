@@ -39,7 +39,7 @@ def CollectImage (LabelName,NumOfImg):
         time.sleep(3)
         
         if cv2.waitKey(1) & 0xFF == ord('q'):
-            LogCreator.Log_MSG("[CollectImages.py Line 74 ] Image Collection aborted by User")
+            LogCreator.Log_MSG("[CollectImages.py ] Image Collection aborted by User")
             break
     cap.release()
     cv2.destroyAllWindows()
@@ -57,4 +57,4 @@ def StartLabelingApp ():
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
     except:
         print("Should log this - Fault in opening labeling app")
-        LogCreator.Log_Fault("[CollectImages.py Line 82 ] Runing the labelImg.py unsucessfull - check library or labelimg\labelImg.py")
+        LogCreator.Log_Fault("[CollectImages.py Line 50 ] Runing the labelImg.py unsucessfull - check library or labelimg\labelImg.py")

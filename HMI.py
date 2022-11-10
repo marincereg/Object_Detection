@@ -18,6 +18,7 @@ from tkinter import *
 from tkinter import ttk
 
 import CollectImages
+import TrainModel
 import LogCreator
 
 def Collect ():
@@ -28,7 +29,7 @@ def Collect ():
     CollectImages.CollectImage(In1, int(in2))
     
 def LabelApp ():
-    LogCreator.Log_MSG("[HMI.py ] Labeling App is Starting ")
+    LogCreator.Log_MSG("[HMI.pyn] Labeling App is Starting ")
     CollectImages.StartLabelingApp()
 
 LogCreator.SW_InRun()
