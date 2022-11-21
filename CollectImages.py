@@ -11,11 +11,13 @@ import uuid
 import os
 import time
 import LogCreator
-import HMI
 
 # Main Looop
 
-def CollectImage (LabelName,NumOfImg):
+def CollectImage (LabelName,NumOfImg,CameraType):
+    if CameraType > 1 or CameraType<0:
+        LogCreator.Log_Warning("[CollectImages.py ] Wrong Camera type - Setting Camera to default")
+        CameraType = 0
     print("Collecting images for " + LabelName)
     LogCreator.Log_MSG("[CollectImages.py ] Start to collect image in " + str(LabelName))
     IMAGES_PATH = os.path.join('Tensorflow', 'workspace', 'images', 'collectedimages')
@@ -24,7 +26,7 @@ def CollectImage (LabelName,NumOfImg):
         os.mkdir(path)  
         LogCreator.Log_MSG("[CollectImages.py ] New Directory for collecting images created")
     print("Image Collecting is starting ...")      
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(CameraType)
     # Wait until cv2 is started and initialized
     time.sleep(5)
     for ImgCnt in range(0,NumOfImg):

@@ -283,3 +283,300 @@
 [SW STARTED] 2022-11-10 17:07:53.847386
 [MSG] 2022-11-10 17:07:53.848333---[HMI.py ] Started 
 [MSG] 2022-11-10 17:07:53.985850---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:35:57.162369
+[MSG] 2022-11-11 01:35:57.162369---[HMI.py ] Started 
+[MSG] 2022-11-11 01:35:57.321138---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:40:07.003764
+[MSG] 2022-11-11 01:40:07.003764---[HMI.py ] Started 
+[MSG] 2022-11-11 01:40:07.077030---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:40:13.831287
+[MSG] 2022-11-11 01:40:13.831287---[HMI.py ] Started 
+[MSG] 2022-11-11 01:40:13.889378---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:41:14.962241
+[MSG] 2022-11-11 01:41:14.962241---[HMI.py ] Started 
+[MSG] 2022-11-11 01:41:15.042223---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-11 01:41:23.064324---[HMI.py ] Collect Images call 
+[MSG] 2022-11-11 01:41:23.064324---[HMI.py ] Collect Images parameters : InputDirectoryName =  Test123 and Number of images = 2
+[MSG] 2022-11-11 01:41:29.497081---[HMI.py ] Collect Images call 
+[MSG] 2022-11-11 01:41:29.497081---[HMI.py ] Collect Images parameters : InputDirectoryName =  Test123 and Number of images = 2
+
+[SW STARTED] 2022-11-11 01:41:32.713381
+[MSG] 2022-11-11 01:41:32.714391---[HMI.py ] Started 
+[MSG] 2022-11-11 01:41:32.801486---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:42:01.256186
+[MSG] 2022-11-11 01:42:01.256186---[HMI.py ] Started 
+[MSG] 2022-11-11 01:42:01.319684---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-11 01:42:06.654504---[HMI.py ] Collect Images call 
+[MSG] 2022-11-11 01:42:06.654504---[HMI.py ] Collect Images parameters : InputDirectoryName =  Test1234 and Number of images = 2
+[MSG] 2022-11-11 01:42:06.654504---[CollectImages.py ] Start to collect image in Test1234
+[MSG] 2022-11-11 01:42:06.661705---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-11 01:42:12.871111---[CollectImages.py ] Image Taken : Test1234  1 of 2
+[MSG] 2022-11-11 01:42:15.914152---[CollectImages.py ] Image Taken : Test1234  2 of 2
+
+[SW STARTED] 2022-11-11 01:42:23.089409
+[MSG] 2022-11-11 01:42:23.089409---[HMI.py ] Started 
+[MSG] 2022-11-11 01:42:23.151808---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:42:49.247587
+[MSG] 2022-11-11 01:42:49.247587---[HMI.py ] Started 
+[MSG] 2022-11-11 01:42:49.294826---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-11 01:42:56.814894---[HMI.py ] Collect Images call 
+[MSG] 2022-11-11 01:42:56.817400---[HMI.py ] Collect Images parameters : InputDirectoryName =  test12345 and Number of images = 1
+[MSG] 2022-11-11 01:42:56.817400---[CollectImages.py ] Start to collect image in test12345
+[MSG] 2022-11-11 01:42:56.817400---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-11 01:43:02.722140---[CollectImages.py ] Image Taken : test12345  1 of 1
+
+[SW STARTED] 2022-11-11 01:45:23.442482
+[MSG] 2022-11-11 01:45:23.442482---[HMI.py ] Started 
+[MSG] 2022-11-11 01:45:23.499723---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:45:36.409622
+[MSG] 2022-11-11 01:45:36.409622---[HMI.py ] Started 
+[MSG] 2022-11-11 01:45:36.467555---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:45:42.785688
+[MSG] 2022-11-11 01:45:42.785688---[HMI.py ] Started 
+[MSG] 2022-11-11 01:45:42.864865---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:46:13.874254
+[MSG] 2022-11-11 01:46:13.874254---[HMI.py ] Started 
+[MSG] 2022-11-11 01:46:13.923460---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:47:08.387124
+[MSG] 2022-11-11 01:47:08.387124---[HMI.py ] Started 
+[MSG] 2022-11-11 01:47:08.458174---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:51:38.104234
+[MSG] 2022-11-11 01:51:38.104234---[HMI.py ] Started 
+[MSG] 2022-11-11 01:51:38.151820---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:03.770030
+[MSG] 2022-11-11 01:52:03.770030---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:03.817674---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:12.338338
+[MSG] 2022-11-11 01:52:12.338338---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:12.403230---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:17.648537
+[MSG] 2022-11-11 01:52:17.648537---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:17.715046---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:23.037935
+[MSG] 2022-11-11 01:52:23.037935---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:23.101231---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:28.059381
+[MSG] 2022-11-11 01:52:28.059381---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:28.107342---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:52:41.259065
+[MSG] 2022-11-11 01:52:41.259065---[HMI.py ] Started 
+[MSG] 2022-11-11 01:52:41.325234---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:53:15.903408
+[MSG] 2022-11-11 01:53:15.903408---[HMI.py ] Started 
+[MSG] 2022-11-11 01:53:15.966428---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-11 01:53:46.127102
+[MSG] 2022-11-11 01:53:46.127102---[HMI.py ] Started 
+[MSG] 2022-11-11 01:53:46.190339---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-11 01:53:54.332198---[HMI.py ] Collect Images call 
+[MSG] 2022-11-11 01:53:54.332198---[HMI.py ] Collect Images parameters : InputDirectoryName =  tesss and Number of images = 1
+[MSG] 2022-11-11 01:53:54.332198---[CollectImages.py ] Start to collect image in tesss
+[MSG] 2022-11-11 01:53:54.339210---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-11 01:54:00.317923---[CollectImages.py ] Image Taken : tesss  1 of 1
+[MSG] 2022-11-11 01:54:14.190240---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-11 01:58:43.031668
+[MSG] 2022-11-11 01:58:43.031668---[HMI.py ] Started 
+[MSG] 2022-11-11 01:58:43.094556---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 18:11:22.839283
+[MSG] 2022-11-19 18:11:22.839283---[HMI.py ] Started 
+[MSG] 2022-11-19 18:11:22.910145---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:01:28.598529
+[MSG] 2022-11-19 23:01:28.598529---[HMI.py ] Started 
+[MSG] 2022-11-19 23:01:28.657686---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:02:44.288070
+[MSG] 2022-11-19 23:02:44.288070---[HMI.py ] Started 
+[MSG] 2022-11-19 23:02:44.362364---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:02:52.368184---[HMI.py ] Collect Images call 
+[MSG] 2022-11-19 23:02:52.368184---[HMI.py ] Collect Images parameters : InputDirectoryName =  TestFolder and Number of images = 2
+
+[SW STARTED] 2022-11-19 23:04:21.782962
+[MSG] 2022-11-19 23:04:21.782962---[HMI.py ] Started 
+[MSG] 2022-11-19 23:04:21.847047---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:04:32.100505---[HMI.py ] Collect Images call 
+[MSG] 2022-11-19 23:04:32.100505---[HMI.py ] Collect Images parameters : InputDirectoryName =  TestFolder and Number of images = 2
+[MSG] 2022-11-19 23:04:34.357127---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-19 23:05:50.135993
+[MSG] 2022-11-19 23:05:50.135993---[HMI.py ] Started 
+[MSG] 2022-11-19 23:05:50.239955---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:05:58.320350---[HMI.py ] Collect Images call 
+[MSG] 2022-11-19 23:05:58.321906---[HMI.py ] Collect Images parameters : InputDirectoryName =  TestFolder and Number of images = 2
+[MSG] 2022-11-19 23:05:58.321906---[CollectImages.py ] Start to collect image in TestFolder
+[MSG] 2022-11-19 23:05:58.330209---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-19 23:06:04.612773---[CollectImages.py ] Image Taken : TestFolder  1 of 2
+[MSG] 2022-11-19 23:06:07.650557---[CollectImages.py ] Image Taken : TestFolder  2 of 2
+
+[SW STARTED] 2022-11-19 23:06:34.981050
+[MSG] 2022-11-19 23:06:34.981050---[HMI.py ] Started 
+[MSG] 2022-11-19 23:06:35.052702---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:06:42.506697---[HMI.py ] Collect Images call 
+[MSG] 2022-11-19 23:06:42.506697---[HMI.py ] Collect Images parameters : InputDirectoryName =  testfolder and Number of images = 1
+[MSG] 2022-11-19 23:06:42.506697---[CollectImages.py ] Start to collect image in testfolder
+[MSG] 2022-11-19 23:06:48.658303---[CollectImages.py ] Image Taken : testfolder  1 of 1
+[MSG] 2022-11-19 23:06:57.822384---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-19 23:07:08.708855
+[MSG] 2022-11-19 23:07:08.708855---[HMI.py ] Started 
+[MSG] 2022-11-19 23:07:08.773800---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:07:16.258187---[HMI.py ] Collect Images call 
+[MSG] 2022-11-19 23:07:16.259188---[HMI.py ] Collect Images parameters : InputDirectoryName =  testfolder and Number of images = 1
+[MSG] 2022-11-19 23:07:16.260761---[CollectImages.py ] Start to collect image in testfolder
+[MSG] 2022-11-19 23:07:22.176162---[CollectImages.py ] Image Taken : testfolder  1 of 1
+[MSG] 2022-11-19 23:07:28.823650---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-19 23:08:45.059073
+[MSG] 2022-11-19 23:08:45.059073---[HMI.py ] Started 
+[MSG] 2022-11-19 23:08:45.122674---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:08:49.596050---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-19 23:08:59.797323
+[MSG] 2022-11-19 23:08:59.797323---[HMI.py ] Started 
+[MSG] 2022-11-19 23:08:59.844321---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:09:26.500376
+[MSG] 2022-11-19 23:09:26.500376---[HMI.py ] Started 
+[MSG] 2022-11-19 23:09:26.595055---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:09:50.569833
+[MSG] 2022-11-19 23:09:50.569833---[HMI.py ] Started 
+[MSG] 2022-11-19 23:09:50.617332---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:10:56.085700
+[MSG] 2022-11-19 23:10:56.085700---[HMI.py ] Started 
+[MSG] 2022-11-19 23:10:56.142362---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:11:10.657900---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-19 23:12:07.745900
+[MSG] 2022-11-19 23:12:07.745900---[HMI.py ] Started 
+[MSG] 2022-11-19 23:12:07.846234---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-19 23:13:20.646090
+[MSG] 2022-11-19 23:13:20.646090---[HMI.py ] Started 
+[MSG] 2022-11-19 23:13:20.708790---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-19 23:13:35.002850---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 04:51:29.745521
+[MSG] 2022-11-21 04:51:29.745521---[HMI.py ] Started 
+[MSG] 2022-11-21 04:51:29.819125---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 04:51:37.495662---[HMI.py ] Collect Images call 
+[MSG] 2022-11-21 04:51:37.496286---[HMI.py ] Collect Images parameters : InputDirectoryName =  m and Number of images = 1
+[MSG] 2022-11-21 04:51:37.496286---[CollectImages.py ] Start to collect image in m
+[MSG] 2022-11-21 04:51:37.499299---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-21 04:51:43.639198---[CollectImages.py ] Image Taken : m  1 of 1
+
+[SW STARTED] 2022-11-21 04:53:53.594030
+[MSG] 2022-11-21 04:53:53.594030---[HMI.py ] Started 
+[MSG] 2022-11-21 04:53:53.651807---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 04:54:01.134769---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 04:54:15.795950
+[MSG] 2022-11-21 04:54:15.795950---[HMI.py ] Started 
+[MSG] 2022-11-21 04:54:15.854343---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:55:04.765013
+[MSG] 2022-11-21 04:55:04.765013---[HMI.py ] Started 
+[MSG] 2022-11-21 04:55:04.828475---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:55:19.900239
+[MSG] 2022-11-21 04:55:19.900239---[HMI.py ] Started 
+[MSG] 2022-11-21 04:55:19.960667---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:55:31.875878
+[MSG] 2022-11-21 04:55:31.875878---[HMI.py ] Started 
+[MSG] 2022-11-21 04:55:31.938797---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:55:49.471732
+[MSG] 2022-11-21 04:55:49.471732---[HMI.py ] Started 
+[MSG] 2022-11-21 04:55:49.532139---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:56:27.963094
+[MSG] 2022-11-21 04:56:27.963094---[HMI.py ] Started 
+[MSG] 2022-11-21 04:56:28.085069---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:56:38.477641
+[MSG] 2022-11-21 04:56:38.477641---[HMI.py ] Started 
+[MSG] 2022-11-21 04:56:38.540554---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 04:59:10.875137
+[MSG] 2022-11-21 04:59:10.875137---[HMI.py ] Started 
+[MSG] 2022-11-21 04:59:10.950865---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 04:59:15.830248---[HMI.py ] Collect Images call 
+[MSG] 2022-11-21 04:59:15.831912---[HMI.py ] Collect Images parameters : InputDirectoryName =  1 and Number of images = 1
+[MSG] 2022-11-21 04:59:15.833704---[CollectImages.py ] Start to collect image in 1
+[MSG] 2022-11-21 04:59:15.833704---[CollectImages.py ] New Directory for collecting images created
+[MSG] 2022-11-21 04:59:21.806106---[CollectImages.py ] Image Taken : 1  1 of 1
+[MSG] 2022-11-21 04:59:25.291609---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 04:59:29.082555
+[MSG] 2022-11-21 04:59:29.082555---[HMI.py ] Started 
+[MSG] 2022-11-21 04:59:29.141862---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 04:59:36.599499---[HMI.py ] Collect Images call 
+[MSG] 2022-11-21 04:59:36.601455---[HMI.py ] Collect Images parameters : InputDirectoryName =  1 and Number of images = 1
+[MSG] 2022-11-21 04:59:36.601455---[CollectImages.py ] Start to collect image in 1
+[MSG] 2022-11-21 04:59:42.415879---[CollectImages.py ] Image Taken : 1  1 of 1
+
+[SW STARTED] 2022-11-21 04:59:51.280511
+[MSG] 2022-11-21 04:59:51.283864---[HMI.py ] Started 
+[MSG] 2022-11-21 04:59:51.343752---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 04:59:55.203520---[HMI.py ] Collect Images call 
+[MSG] 2022-11-21 04:59:55.206845---[HMI.py ] Collect Images parameters : InputDirectoryName =  1 and Number of images = 1
+[MSG] 2022-11-21 04:59:55.207846---[CollectImages.py ] Start to collect image in 1
+[MSG] 2022-11-21 05:00:01.029772---[CollectImages.py ] Image Taken : 1  1 of 1
+[MSG] 2022-11-21 05:00:04.502731---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 05:00:42.828661
+[MSG] 2022-11-21 05:00:42.830707---[HMI.py ] Started 
+[MSG] 2022-11-21 05:00:42.890484---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 05:00:48.159366---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 05:04:04.955634
+[MSG] 2022-11-21 05:04:04.955634---[HMI.py ] Started 
+[MSG] 2022-11-21 05:04:05.020292---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 05:04:10.517294---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 05:04:29.047730
+[MSG] 2022-11-21 05:04:29.047730---[HMI.py ] Started 
+[MSG] 2022-11-21 05:04:29.111065---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 05:05:30.400132
+[MSG] 2022-11-21 05:05:30.400132---[HMI.py ] Started 
+[MSG] 2022-11-21 05:05:30.458256---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 05:05:48.203231
+[MSG] 2022-11-21 05:05:48.203231---[HMI.py ] Started 
+[MSG] 2022-11-21 05:05:48.266176---[HMI.py ] Instance of Gui created 
+[MSG] 2022-11-21 05:05:55.148971---[HMI.pyn] Application is closed by user with Exit Button 
+
+[SW STARTED] 2022-11-21 05:06:01.130412
+[MSG] 2022-11-21 05:06:01.130412---[HMI.py ] Started 
+[MSG] 2022-11-21 05:06:01.193453---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 05:06:51.493255
+[MSG] 2022-11-21 05:06:51.493255---[HMI.py ] Started 
+[MSG] 2022-11-21 05:06:51.559105---[HMI.py ] Instance of Gui created 
+
+[SW STARTED] 2022-11-21 05:07:25.611497
+[MSG] 2022-11-21 05:07:25.611497---[HMI.py ] Started 
+[MSG] 2022-11-21 05:07:25.672240---[HMI.py ] Instance of Gui created 
